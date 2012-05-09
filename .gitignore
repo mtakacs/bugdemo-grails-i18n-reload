@@ -8,3 +8,6 @@ target
 /plugins
 /web-app/plugins
 /web-app/WEB-INF/classes
+atlassian-ide-plugin.xml
+.idea
+*.iml
